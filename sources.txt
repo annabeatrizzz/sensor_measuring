@@ -1,0 +1,9 @@
+Sources
+
+https://www.sparkfun.com/products/13975
+
+https://www.sparkfun.com/redboards#:~:text=The%20SparkFun%20RedBoard%20Qwiic%20is,Clock%20Speed
+
+https://arduinomodules.info/ky-013-analog-temperature-sensor-module/
+
+https://store.techmaze.ae/product/99187580
