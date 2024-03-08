@@ -6,7 +6,8 @@ This project is focused on analyzing how a microcontroller work with an analog s
 <p align="center">
   <img src=ss_project.png />
 </p>
- 
+
+---
 ## Components
 - SparkFun ReadBoard (microcontroller)
 - KY 013 Analog Temperature Sensor Module
