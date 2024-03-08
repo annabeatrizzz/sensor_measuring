@@ -1,4 +1,4 @@
-# Project
+# Project Description
 This project was developed during the course of Sensors and Signal Conditioning at Turku University of Applied Science! 
 
 This project is focused on analyzing how a microcontroller work with an analog sensor to take measurements. Topics such as Type-A and Type-B Uncertainty, Rate Sampling and Jitter, and connecting the microcontroller with the sensor are topics developped.
