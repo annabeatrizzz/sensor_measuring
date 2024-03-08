@@ -3,7 +3,7 @@ This project was developed during the course of Sensors and Signal Conditioning 
 
 This project is focused on analyzing how a microcontroller work with an analog sensor to take measurements. Topics such as Type-A and Type-B Uncertainty, Rate Sampling and Jitter, and connecting the microcontroller with the sensor are topics developped.
 
- ![Project Picture](assets/ss_project.png)
+ ![Project Picture](ss_project.png)
  
 ## Components
 - SparkFun ReadBoard (microcontroller)
